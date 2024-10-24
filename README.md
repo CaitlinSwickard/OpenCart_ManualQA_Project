@@ -11,11 +11,14 @@ This project aims to showcase manual testing skills and knowledge through a simu
 * Create a comprehensive portfolio artifact highlighting testing efforts and outcomes.
 
 **Scope:**
-The testing scope includes:
+The scope of this testing project includes verifying the following account management functionalities accessible to customers through the OpenCart frontend:
 
-* User Interface (UI): Header, menu, banners, product listings, product pages, search bar, shopping cart, checkout process, account management, footer.
-* User Actions: Registration, login/logout, password reset, search, product comparison, adding/removing from cart, wishlist, checkout, account information updates.
-* Functionality: Accuracy of product information, secure user authentication, proper handling of user input, shopping cart functionality, order processing, error handling.
+* Registration: Creating a new account with valid credentials, error handling for invalid inputs, and account activation process (if applicable).
+* Login: Successful login with valid credentials, error handling for invalid credentials or account lockout, and "Remember me" functionality.
+* Logout: Successful logout and redirection to the appropriate page.
+* Forgot Password: Password reset process, email delivery, and password reset link functionality.
+* My Account: Access to the "My Account" page after successful login, correct display of user information.
+* My Account Information: Updating personal information (e.g., name, email, address), data validation, error handling, and password change functionality.
 
 Exclusions
 
