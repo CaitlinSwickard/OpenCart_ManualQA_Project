@@ -28,9 +28,13 @@ Exclusions
 
 **Reporting and Documentation**
 
+* **Functional Requirements Specification (FRS)** [https://docs.google.com/document/d/1-bVXdfGngcGoLbd5w8WY7ChHjOLvLUIpcG8K-jTL0KY/edit?usp=sharing]
+* **Test Plan** [https://docs.google.com/document/d/1tdDaltpz96mcIyic4b3YI_JSV86wV3Qm-1oeOhZkZxc/edit?usp=sharing]
+
+* **Test Scenarios / Test Cases** [https://docs.google.com/spreadsheets/d/1MGkPVpS9cQkcfCtVTOELhGkbUk2wyA7HaObMBJVj48A/edit?usp=sharing]
+
 * **Test Results:** [Reporting format/tool]
 * **Defects:** [Defect tracking system]
-
 **Additional Information**
 
 * **Timeline:** [Project timeline]
