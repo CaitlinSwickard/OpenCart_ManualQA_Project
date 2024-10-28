@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project aims to showcase manual testing skills and knowledge through a simulated testing engagement on OpenCart, a popular e-commerce platform. The focus is on the frontend user experience, encompassing the user interface, user actions, and core functionalities.
+This project aims to showcase manual testing skills and knowledge through a simulated testing engagement on OpenCart, a popular e-commerce platform. The focus is on the frontend user experience, testing functionalities of the OpenCart frontend Account management features.
 
 **Key Objectives**
 
@@ -35,6 +35,7 @@ Exclusions
 
 * **Test Results:** [Reporting format/tool]
 * **Defects:** [Defect tracking system]
+
 **Additional Information**
 
 * **Timeline:** [Project timeline]
