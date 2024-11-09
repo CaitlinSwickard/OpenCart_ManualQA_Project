@@ -10,15 +10,16 @@ This project aims to showcase manual testing skills and knowledge through a simu
 * Simulate a real-world testing project to showcase practical application of testing skills.
 * Create a comprehensive portfolio artifact highlighting testing efforts and outcomes.
 
-**Scope:**
+**Scope**
+
 The scope of this testing project includes verifying the following account management functionalities accessible to customers through the OpenCart frontend:
 
-* Registration: Creating a new account with valid credentials, error handling for invalid inputs, and account activation process (if applicable).
-* Login: Successful login with valid credentials, error handling for invalid credentials or account lockout, and "Remember me" functionality.
-* Logout: Successful logout and redirection to the appropriate page.
-* Forgot Password: Password reset process, email delivery, and password reset link functionality.
-* My Account: Access to the "My Account" page after successful login, correct display of user information.
-* My Account Information: Updating personal information (e.g., name, email, address), data validation, error handling, and password change functionality.
+* **Registration:** Creating a new account with valid credentials, error handling for invalid inputs, and account activation process (if applicable).
+* **Login:** Successful login with valid credentials, error handling for invalid credentials or account lockout, and "Remember me" functionality.
+* **Logout:** Successful logout and redirection to the appropriate page.
+* **Forgot Password:** Password reset process, email delivery, and password reset link functionality.
+* **My Account:** Access to the "My Account" page after successful login, correct display of user information.
+* **My Account Information:** Updating personal information (e.g., name, email, address), data validation, error handling, and password change functionality.
 
 Exclusions
 
@@ -36,8 +37,16 @@ Exclusions
 * **Test Results:** [Reporting format/tool]
 * **Defects:** [Defect tracking system]
 
-**Additional Information**
+
+
+# Project Process
+
+**Environment setup**
+
+To establish a testing environment for the OpenCart project, I downloaded and installed OpenCart and XAMPP onto my local machine. I set up XAMPP, a popular local development environment, to host the OpenCart application. This involved configuring the database (MySQL) and web server (Apache) components of XAMPP to interact with OpenCart. Once the application was successfully deployed to the local server, I conducted initial smoke testing to verify the basic functionality and user interface.
 
 * **Timeline:** [Project timeline]
 * **Team Members:** [List of team members]
 * **Contact:** [Contact information]
+
+
