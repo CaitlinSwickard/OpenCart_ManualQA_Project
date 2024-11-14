@@ -58,19 +58,33 @@ Summary of Test Findings
 During testing of the OpenCart account management features, several bugs were identified. Here's a breakdown of the key issues:
 
 Registration:
+
 OC-BUG1A: Confirmation email not sent after successful registration (Critical - User cannot verify account)
+
 OC-BUG2: Application allows registration with invalid email addresses (Major - Security risk)
+
 OC-BUG3: Missing visual indicator for mandatory "Privacy Policy" field (Minor - Usability issue)
+
 OC-BUG4: Password complexity requirements not enforced (Major - Security risk)
+
 Login/Logout:
+
 OC-BUG5: User unexpectedly logged out when using browser back button (Critical - Data loss potential)
+
 OC-BUG6: Automatic session timeout not working after 30 minutes of inactivity (Major - Security concern)
+
 Password Reset:
+
 OC-BUG7: Password reset email not sent despite success message (Critical - User cannot recover account)
+
 OC-BUG8: Unclear error message for invalid email formats (Minor - Usability issue)
+
 Navigation:
+
 OC-BUG9: User logged out with invalid token error when accessing "My Account" via site map (Major - Functionality issue)
+
 OC-BUG10: Same issue as OC-BUG9 for "Account Information" (Major - Functionality issue)
+
 OC-BUG11: Same issue as OC-BUG9 for "Password" (Major - Functionality issue)
 
 These bugs range from critical issues, such as the inability to reset passwords or the risk of unauthorized access due to weak password requirements, to minor usability concerns that can hinder the user experience. 
@@ -84,6 +98,7 @@ Overview of Testing Types Performed
 * **Sanity testing** was conducted to verify the basic functionality of the application. This involved testing core features like login, logout, password reset, and account information updates. By ensuring that these fundamental aspects were working correctly, it established a solid foundation for further testing.
 
 * **UI testing** focused on ensuring the clarity and accuracy of error messages and text field placeholders. By verifying the consistency and comprehensibility of these elements, aimed to enhance the user experience and minimize potential user errors.
+
 
 
 **Project Summary:**
